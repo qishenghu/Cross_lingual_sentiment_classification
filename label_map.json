@@ -1,9 +1,20 @@
 {
-  "entertainment": 0,
-  "geography": 1,
-  "health": 2,
-  "politics": 3,
-  "science/technology": 4,
-  "sports": 5,
-  "travel": 6
+  "alarm": 0,
+  "audio": 1,
+  "calendar": 2,
+  "cooking": 3,
+  "datetime": 4,
+  "email": 5,
+  "general": 6,
+  "iot": 7,
+  "lists": 8,
+  "music": 9,
+  "news": 10,
+  "play": 11,
+  "qa": 12,
+  "recommendation": 13,
+  "social": 14,
+  "takeaway": 15,
+  "transport": 16,
+  "weather": 17
 }
